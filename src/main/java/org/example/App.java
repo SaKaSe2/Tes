@@ -6,5 +6,6 @@ public class App {
         String text = "Hello, Maven!";
         String reversedText = StringUtils.reverse(text);
         System.out.println(reversedText);
+        System.out.println(reversedText);
     }
 }
